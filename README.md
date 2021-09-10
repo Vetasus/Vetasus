@@ -8,3 +8,9 @@
 Vetasus/Vetasus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> www.vetasus.com
+
+https://t.me/Vetasus
+Instagram: www.instagram.com/vetasus
+Facebook: www.Facebook.com/Vetasus
+Twitch: www.twitch.tv/vetasus
+Twitter: www.Twitter.com/Vetasus
